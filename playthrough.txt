@@ -1,0 +1,15 @@
+take pills
+s
+mix nuggets with pills
+e
+e
+take green book
+w
+s
+in
+give witch sleeping nuggets
+down
+place green book on altar
+up
+out
+swim in pond
